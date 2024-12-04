@@ -47,22 +47,15 @@
 
 
 ## 🛠 My Tech Stack
-<!-- JavaScript -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>](https://www.javascript.com)&nbsp;&nbsp;&nbsp;
-<!-- React -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;
-<!-- Node.js -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org)&nbsp;&nbsp;&nbsp;
-<!-- MongoDB -->
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;
-<!-- Laravel -->
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="60" height="60"/>](https://laravel.com)&nbsp;&nbsp;&nbsp;
-<!-- Vue.js -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="60" height="60"/>](https://vuejs.org)&nbsp;&nbsp;&nbsp;
-<!-- Inertia.js -->
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inertiajs/inertiajs-original.svg" alt="inertiajs" width="60" height="60"/>](https://inertiajs.com)&nbsp;&nbsp;&nbsp;
-<!-- MySQL -->
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="60" height="60"/>](https://laravel.com)&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inertiajs/inertiajs-original.svg" alt="inertiajs" width="60" height="60"/>](https://inertiajs.com)&nbsp;&nbsp;&nbsp;
+
 
 
 
