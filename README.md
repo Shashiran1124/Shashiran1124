@@ -87,7 +87,8 @@
 
 
 
-![Profile Views](https://shields.io/badge/dynamic/json?label=Profile%20Views&query=views&color=blue&url=https://api.countapi.xyz/get/your-namespace/your-key)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 
 
 
