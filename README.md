@@ -47,14 +47,23 @@
 
 
 ## 🛠 My Tech Stack
-![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)
-![React](https://img.icons8.com/ios/50/000000/react-native.png)
-![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png)
-![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png)
-![Laravel](https://img.icons8.com/ios/50/000000/laravel.png)
-![Vue.js](https://img.icons8.com/ios/50/000000/vuejs.png)
-![Inertia.js](https://img.icons8.com/ios/50/000000/inertia.png)
-![MySQL](https://img.icons8.com/ios/50/000000/mysql.png)
+<!-- JavaScript -->
+<img src="https://cdn.iconify.design/logos:javascript.svg" width="40" height="40" alt="JavaScript" />
+<!-- React -->
+<img src="https://cdn.iconify.design/logos:react.svg" width="40" height="40" alt="React" />
+<!-- Node.js -->
+<img src="https://cdn.iconify.design/logos:nodejs-icon.svg" width="40" height="40" alt="Node.js" />
+<!-- MongoDB -->
+<img src="https://cdn.iconify.design/logos:mongodb.svg" width="40" height="40" alt="MongoDB" />
+<!-- Laravel -->
+<img src="https://cdn.iconify.design/logos:laravel.svg" width="40" height="40" alt="Laravel" />
+<!-- Vue.js -->
+<img src="https://cdn.iconify.design/logos:vue.svg" width="40" height="40" alt="Vue.js" />
+<!-- Inertia.js -->
+<img src="https://cdn.iconify.design/logos:inertia.svg" width="40" height="40" alt="Inertia.js" />
+<!-- MySQL -->
+<img src="https://cdn.iconify.design/logos:mysql.svg" width="40" height="40" alt="MySQL" />
+
 
 
 ---
