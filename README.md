@@ -48,21 +48,22 @@
 
 ## 🛠 My Tech Stack
 <!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" width="40" height="40" alt="JavaScript" />
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 <!-- React -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" width="40" height="40" alt="React" />
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 <!-- Node.js -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" width="40" height="40" alt="Node.js" />
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
 <!-- MongoDB -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" width="40" height="40" alt="MongoDB" />
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 <!-- Laravel -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg" width="40" height="40" alt="Laravel" />
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 <!-- Vue.js -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vue-dot-js.svg" width="40" height="40" alt="Vue.js" />
+![Vue.js](https://img.shields.io/badge/Vue.js-%232C3E50.svg?style=flat&logo=vue.js&logoColor=4FC08D)
 <!-- Inertia.js -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/inertia-dot-js.svg" width="40" height="40" alt="Inertia.js" />
+![Inertia.js](https://img.shields.io/badge/Inertia.js-%234E8C4F.svg?style=flat&logo=inertia.js&logoColor=white)
 <!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" width="40" height="40" alt="MySQL" />
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
 
 
 ---
