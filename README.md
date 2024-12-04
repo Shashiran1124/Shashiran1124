@@ -47,14 +47,15 @@
 
 
 ## 🛠 My Tech Stack
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="javascript" width="60" height="60"/>](https://www.javascript.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="react" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vue-dot-js.svg" alt="vuejs" width="60" height="60"/>](https://vuejs.org)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg" alt="laravel" width="60" height="60"/>](https://laravel.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/inertiajs.svg" alt="inertiajs" width="60" height="60"/>](https://inertiajs.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.svgrepo.com/show/303325/javascript.svg" alt="javascript" width="60" height="60"/>](https://www.javascript.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.svgrepo.com/show/303315/react.svg" alt="react" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.svgrepo.com/show/303268/nodejs.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.svgrepo.com/show/303292/vuejs.svg" alt="vuejs" width="60" height="60"/>](https://vuejs.org)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.svgrepo.com/show/303384/laravel.svg" alt="laravel" width="60" height="60"/>](https://laravel.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.svgrepo.com/show/303351/mysql.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.svgrepo.com/show/303329/mongodb.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.svgrepo.com/show/303308/inertiajs.svg" alt="inertiajs" width="60" height="60"/>](https://inertiajs.com)&nbsp;&nbsp;&nbsp;
+
 
 
 
