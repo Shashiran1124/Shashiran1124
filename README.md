@@ -48,7 +48,8 @@
 
 ## 🛠 My Tech Stack
 <!-- JavaScript -->
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>](https://www.javascript.com)&nbsp;&nbsp;&nbsp;
+
 <!-- React -->
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 <!-- Node.js -->
