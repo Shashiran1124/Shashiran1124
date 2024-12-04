@@ -47,14 +47,15 @@
 
 
 ## 🛠 My Tech Stack
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/brands/javascript.svg" alt="javascript" width="60" height="60"/>](https://www.javascript.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/brands/react.svg" alt="react" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/brands/node-js.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/brands/vuejs.svg" alt="vuejs" width="60" height="60"/>](https://vuejs.org)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/brands/laravel.svg" alt="laravel" width="60" height="60"/>](https://laravel.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/brands/mysql.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/brands/mongodb.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/brands/inertiajs.svg" alt="inertiajs" width="60" height="60"/>](https://inertiajs.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>](https://www.javascript.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="60" height="60"/>](https://vuejs.org)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="60" height="60"/>](https://laravel.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inertiajs/inertiajs-original.svg" alt="inertiajs" width="60" height="60"/>](https://inertiajs.com)&nbsp;&nbsp;&nbsp;
+
 
 
 
