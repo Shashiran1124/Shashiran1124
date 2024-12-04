@@ -47,20 +47,21 @@
 
 
 ## 🛠 My Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-![Inertia.js](https://img.shields.io/badge/Inertia.js-4E8C4F?style=for-the-badge&logo=inertia.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)
+![React](https://img.icons8.com/ios/50/000000/react-native.png)
+![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png)
+![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png)
+![Laravel](https://img.icons8.com/ios/50/000000/laravel.png)
+![Vue.js](https://img.icons8.com/ios/50/000000/vuejs.png)
+![Inertia.js](https://img.icons8.com/ios/50/000000/inertia.png)
+![MySQL](https://img.icons8.com/ios/50/000000/mysql.png)
 
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashiran1124&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashiran1124&show_icons=true&theme=radical) 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiran1124&layout=compact)
 
 
