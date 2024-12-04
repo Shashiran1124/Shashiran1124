@@ -85,3 +85,9 @@
 - Master **Inertia.js** for efficient Laravel and Vue.js SPA development.
 
 
+
+
+![Profile Views](https://shields.io/badge/dynamic/json?label=Profile%20Views&query=views&color=blue&url=https://api.countapi.xyz/get/your-namespace/your-key)
+
+
+
