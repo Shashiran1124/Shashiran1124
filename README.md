@@ -86,8 +86,9 @@
 
 
 
+**👀 Profile Views:**  
+![Profile Views](https://komarev.com/ghpvc/?username=Shashiran1124&color=blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 
 
