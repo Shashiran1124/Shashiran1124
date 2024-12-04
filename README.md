@@ -15,8 +15,9 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/shashiran-perera-b15513283)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Shashiran1124)  
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="30"/>](https://www.linkedin.com/in/shashiran-perera-b15513283)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" width="80" height="30"/>](https://github.com/Shashiran1124)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
