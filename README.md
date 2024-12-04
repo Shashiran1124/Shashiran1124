@@ -65,9 +65,6 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" width="40" height="40" alt="MySQL" />
 
 
-
-
-
 ---
 
 ## 📊 GitHub Stats
