@@ -86,7 +86,7 @@
 
 
 
-*👀*
+
 
 ![](https://komarev.com/ghpvc/?username=Shashiran1124&color=blue)
 
