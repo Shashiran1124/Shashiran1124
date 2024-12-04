@@ -48,21 +48,23 @@
 
 ## 🛠 My Tech Stack
 <!-- JavaScript -->
-<img src="https://cdn.iconify.design/logos:javascript.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" width="40" height="40" alt="JavaScript" />
 <!-- React -->
-<img src="https://cdn.iconify.design/logos:react.svg" width="40" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" width="40" height="40" alt="React" />
 <!-- Node.js -->
-<img src="https://cdn.iconify.design/logos:nodejs-icon.svg" width="40" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" width="40" height="40" alt="Node.js" />
 <!-- MongoDB -->
-<img src="https://cdn.iconify.design/logos:mongodb.svg" width="40" height="40" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" width="40" height="40" alt="MongoDB" />
 <!-- Laravel -->
-<img src="https://cdn.iconify.design/logos:laravel.svg" width="40" height="40" alt="Laravel" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg" width="40" height="40" alt="Laravel" />
 <!-- Vue.js -->
-<img src="https://cdn.iconify.design/logos:vue.svg" width="40" height="40" alt="Vue.js" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vue-dot-js.svg" width="40" height="40" alt="Vue.js" />
 <!-- Inertia.js -->
-<img src="https://cdn.iconify.design/logos:inertia.svg" width="40" height="40" alt="Inertia.js" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/inertia-dot-js.svg" width="40" height="40" alt="Inertia.js" />
 <!-- MySQL -->
-<img src="https://cdn.iconify.design/logos:mysql.svg" width="40" height="40" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" width="40" height="40" alt="MySQL" />
+
+
 
 
 
