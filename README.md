@@ -54,7 +54,8 @@
 [<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" width="55" height="60"/>](https://laravel.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com)&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inertiajs/inertiajs-original.svg" alt="inertiajs" width="60" height="60"/>](https://inertiajs.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Inertia.js-%234E8C4F.svg?style=flat&logo=inertia.js&logoColor=white" alt="Inertia.js" width="60" height="60"/>](https://inertiajs.com)
+
 
 
 
