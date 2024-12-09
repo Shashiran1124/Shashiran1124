@@ -12,7 +12,7 @@
   - Building **Full  Stack Web Applications**, **CRUD functionalities**, and integrating **APIs**.
 - ⚡ Fun fact: I love working on both the backend with Laravel and the frontend with React/Vue to create full-featured web applications.
 
----https://lottie.host/4fcc83a8-8bfb-442e-a13a-e1827ee09d39/n7fGnDW7bg.lottie
+---
 
 ## 🌐 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="40"/>](https://www.linkedin.com/in/shashiran-perera-b15513283)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,7 +81,7 @@
 ---
 
 ## 🎯 Goals for 2025
-- Complete my **Pick & Pay E-Commerce-Store** with additional automation features and payment functionality.
+- Complete my **Pick & Pay E-Commerce-Store** with additional automation features and verification functionalities.
 - Master **Inertia.js** for efficient Laravel and Vue.js SPA development.
 
 
