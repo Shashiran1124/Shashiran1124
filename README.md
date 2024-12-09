@@ -1,5 +1,5 @@
 # Hello there, I'm Shashiran Perera! 👋  
-**Web Developer | MERN Stack & Laravel Enthusiast | Problem Solver** 
+**Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver** 
 
 ## 🚀 About Me
 - 🌱 I’m currently working with **MERN Stack** (MongoDB, Express.js, React, Node.js) and exploring the power of **Laravel** with **Vue.js** and **Inertia.js**.
