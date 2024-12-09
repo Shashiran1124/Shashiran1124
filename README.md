@@ -12,7 +12,7 @@
   - Building **Full  Stack Web Applications**, **CRUD functionalities**, and integrating **APIs**.
 - ⚡ Fun fact: I love working on both the backend with Laravel and the frontend with React/Vue to create full-featured web applications.
 
----
+---https://lottie.host/4fcc83a8-8bfb-442e-a13a-e1827ee09d39/n7fGnDW7bg.lottie
 
 ## 🌐 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="40"/>](https://www.linkedin.com/in/shashiran-perera-b15513283)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,7 @@
 
 
 ## 🛠 My Tech Stack
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Animated SVG" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>](https://www.javascript.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)
