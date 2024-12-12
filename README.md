@@ -10,7 +10,7 @@
   - Full-stack development with **MERN** and **Laravel**.
   - Creating modern web applications using **Vue.js** and **Inertia.js**.
   - Building **Full  Stack Web Applications**, **CRUD functionalities**, and integrating **APIs**.
-- ⚡ Fun fact: I love working on both backend with Laravel frontend with React/Vue to create full-featured web applications.
+- ⚡ Fun fact: I love working on both backend with Laravel and frontend with React/Vue to create full-featured web applications.
 
 ---
 
