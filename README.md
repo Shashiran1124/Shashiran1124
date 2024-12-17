@@ -80,7 +80,7 @@
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2024
 - Complete my **Pick & Pay E-Commerce-Store** with additional automation features and verification functionalities.
 - Master **Inertia.js** for efficient Laravel and Vue.js SPA development.
 
