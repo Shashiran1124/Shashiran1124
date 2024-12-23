@@ -77,6 +77,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiran1124&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashiran&theme=dark&hide_border=true)
+
+
 
 ---
 
