@@ -7,6 +7,10 @@
 
 ---
 
+![Cartoon Animation](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
+
+---
+
 ## 🚀 About Me
 - 🌱 **Currently Working With:**
   - **MERN Stack** (MongoDB, Express.js, React, Node.js)
