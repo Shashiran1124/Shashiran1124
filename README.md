@@ -1,7 +1,11 @@
-<img src="https://github.com/Shashiran1124/Shashiran1124/raw/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-
 # Hello there, I'm Shashiran Perera! 👋  
-**Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver** 
+**Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver**
+
+---
+
+![Snake Animation](https://github.com/Shashiran1124/Shashiran1124/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🚀 About Me
 - 🌱 I’m currently working with **MERN Stack** (MongoDB, Express.js, React, Node.js) and exploring the power of **Laravel** with **Vue.js** and **Inertia.js**.
@@ -20,6 +24,10 @@
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="40"/>](https://www.linkedin.com/in/shashiran-perera-b15513283)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" width="120" height="40"/>](https://github.com/Shashiran1124)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+---
+
+### **Typing Animation**
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&width=435&lines=Welcome+to+Shashiran1124's+Profile!;I+love+coding+and+problem-solving.)
 
 ---
 
@@ -45,9 +53,16 @@
   - Full-stack integration with Laravel, Vue.js, and MySQL for a modern, efficient web application.
   - A MySQL database for managing and storing application data, ensuring fast, reliable data retrieval.
 
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shashiran1124&color=blue&style=flat-square&label=Visitors)
 
 ---
 
+### 3D Profile Animation
+<img src="https://github.com/Shashiran1124/Shashiran1124/raw/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+
+---
 
 ## 🛠 My Tech Stack
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,42 +76,18 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white" alt="XAMPP" width="55" height="55"/>](https://www.apachefriends.org/index.html)
 
-
-
-
-
-
-
-
-
-
-
-
 ---
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashiran1124&show_icons=true&theme=radical) 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiran1124&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashiran1124&theme=dark&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashiran1124&show_icons=true&theme=radical)
 
+---
+
+### Custom Welcome Banner
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20Shashiran1124!&fontAlign=center&fontSize=40&fontColor=white)
 
 ---
 
 ## 🎯 Goals for 2025
 - Master **Inertia.js** for efficient Laravel and Vue.js SPA development.
-
-
-
-
-**👀 Profile Views:** 
-
-![👁️ Profile Views](https://komarev.com/ghpvc/?username=Shashiran1124&color=blue)
-
-
-
-
-
-
