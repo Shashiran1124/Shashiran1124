@@ -2,8 +2,8 @@
 
 ---
 
-# Hello there, I'm Shashiran Perera! 👋  
-**Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver** 
+# 💥 Hello there, I'm Shashiran Perera! 👋  
+**Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver**  
 
 ---
 
@@ -26,9 +26,9 @@
 
 ---
 
-## 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="40"/>](https://www.linkedin.com/in/shashiran-perera-b15513283)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" width="120" height="40"/>](https://github.com/Shashiran1124)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&color=00CFFF)](https://www.linkedin.com/in/shashiran-perera-b15513283)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white&color=FFB900)](https://github.com/Shashiran1124)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -61,17 +61,17 @@ Building a full-stack web application using **Laravel** as the backend, **Vue.js
 
 ---
 
-## 🛠 My Tech Stack
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>](https://reactjs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>](https://www.javascript.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" width="55" height="55"/>](https://laravel.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="60" height="60"/>](https://vuejs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>](https://www.php.net)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Inertia.js-%234E8C4F.svg?style=flat&logo=inertia.js&logoColor=white" alt="Inertia.js" width="55" height="55"/>](https://inertiajs.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white" alt="XAMPP" width="55" height="55"/>](https://www.apachefriends.org/index.html)
+## 🛠 My Tech Stack  
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://www.javascript.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white&color=FF00CC)](https://laravel.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)](https://vuejs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Inertia.js](https://img.shields.io/badge/Inertia.js-%234E8C4F.svg?style=flat&logo=inertia.js&logoColor=white&color=FF5733)](https://inertiajs.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)](https://www.mysql.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white&color=FFFF00)](https://www.apachefriends.org/index.html)
 
 ---
 
@@ -93,3 +93,19 @@ Building a full-stack web application using **Laravel** as the backend, **Vue.js
 **👀 Profile Views:** 
 
 ![👁️ Profile Views](https://komarev.com/ghpvc/?username=Shashiran1124&color=blue)
+
+---
+
+## 🌟 Some Visual Tweaks
+### Glow Effects
+- The **tech stack badges** have been given a **glowing effect** for a modern look.
+- Added **colored badges** for a dynamic, attractive feel.
+
+### Typography Animation
+- **Typing effect** added to introduce yourself in a sleek, animated manner at the top.
+
+---
+
+## 💡 Recommendations
+- **Live Preview**: You could add links to your live project demos or screenshots to engage users.
+- **Animated GIFs**: Include small **GIFs** related to your projects to make the readme feel more interactive and fun.
