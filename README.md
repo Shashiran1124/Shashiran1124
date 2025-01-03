@@ -1,3 +1,5 @@
+<img src="https://github.com/Shashiran1124/Shashiran1124/raw/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+
 # Hello there, I'm Shashiran Perera! 👋  
 **Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver** 
 
