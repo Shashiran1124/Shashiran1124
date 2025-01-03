@@ -6,7 +6,27 @@
 **Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver** 
 
 ---
-![Cartoon Coding Animation](https://media.giphy.com/media/Ju7l5y9Lq7YQM/giphy.gif)
+![Cartoon Coding 1](https://media.giphy.com/media/3o6Zt6SvhC7J1gA5Fc/giphy.gif)
+![Cartoon Coding 2](https://media.giphy.com/media/1wG3TkhVgGkzZfsmpx/giphy.gif)
+![Cartoon Coding 3](https://media.giphy.com/media/26gs6T4c8JtTjfj3i/giphy.gif)
+![Cartoon Coding 4](https://media.giphy.com/media/3o7TKtS9bSgXim5OHm/giphy.gif)
+![Cartoon Coding 5](https://media.giphy.com/media/xT0xeJt6Fbdg4Av8dm/giphy.gif)
+![Cartoon Coding 6](https://media.giphy.com/media/3o6Zt8QZxzGglt3UoQ/giphy.gif)
+![Cartoon Coding 7](https://media.giphy.com/media/l0MYlNTdL8fgEYw9K/giphy.gif)
+![Cartoon Coding 8](https://media.giphy.com/media/3o85zLnX3m06Zl6Whe/giphy.gif)
+![Cartoon Coding 9](https://media.giphy.com/media/5xaGwvLwLM6zHTBbWmy/giphy.gif)
+![Cartoon Coding 10](https://media.giphy.com/media/xT0xeJt6Fbdg4Av8dm/giphy.gif)
+![Cartoon Coding 11](https://media.giphy.com/media/xUOxf48tx9TOv5Az7y/giphy.gif)
+![Cartoon Coding 12](https://media.giphy.com/media/l4KibP4vGG7u3o25G/giphy.gif)
+![Cartoon Coding 13](https://media.giphy.com/media/3o6ZsU8UMcXJl7r62A/giphy.gif)
+![Cartoon Coding 14](https://media.giphy.com/media/3o6Zt2uAoDF6emz2iM/giphy.gif)
+![Cartoon Coding 15](https://media.giphy.com/media/3o6Zt5vNKQgGMFqkQY/giphy.gif)
+![Cartoon Coding 16](https://media.giphy.com/media/26AFO8YAmduETJ9We/giphy.gif)
+![Cartoon Coding 17](https://media.giphy.com/media/3o6Zt7MwXf0lzMzV8g/giphy.gif)
+![Cartoon Coding 18](https://media.giphy.com/media/xT1R9k5Xrffj0F8gA4/giphy.gif)
+![Cartoon Coding 19](https://media.giphy.com/media/26ufm2FMqj9xjptD2/giphy.gif)
+![Cartoon Coding 20](https://media.giphy.com/media/xT0xeJQn5vxtT00vK0/giphy.gif)
+
 
 
 
