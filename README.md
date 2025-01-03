@@ -6,7 +6,8 @@
 **Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver** 
 
 ---
-![Cartoon Programmer Writing Code](https://www.vectorstock.com/royalty-free-vector/cartoon-programmer-writes-code-workspace-concept-vector-20874790)
+![Cartoon Coding Animation](https://media.giphy.com/media/Ju7l5y9Lq7YQM/giphy.gif)
+
 
 
 
