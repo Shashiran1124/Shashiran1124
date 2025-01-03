@@ -1,5 +1,9 @@
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&width=435&lines=Welcome+to+My+Profile!;I+love+coding+and+problem-solving.)
+
+---
+
 # Hello there, I'm Shashiran Perera! 👋  
-**Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver**  
+**Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver** 
 
 ---
 
@@ -73,11 +77,11 @@ Building a full-stack web application using **Laravel** as the backend, **Vue.js
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashiran1124&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashiran1124&show_icons=true&theme=radical) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiran1124&layout=compact)
 
-![GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=Shashiran1124&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashiran1124&theme=dark&hide_border=true)
 
 ---
 
@@ -89,65 +93,3 @@ Building a full-stack web application using **Laravel** as the backend, **Vue.js
 **👀 Profile Views:** 
 
 ![👁️ Profile Views](https://komarev.com/ghpvc/?username=Shashiran1124&color=blue)
-
----
-
-<style>
-  h1, h2, h3 {
-    color: #FFFFFF;
-    text-shadow: 0 0 15px #00FF00, 0 0 30px #00FF00;
-  }
-  h1 {
-    animation: glow 1.5s ease-in-out infinite alternate;
-  }
-  p, li {
-    font-size: 1.2rem;
-    color: #F1F1F1;
-  }
-  a {
-    color: #00F7F7;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
-  a:hover {
-    color: #FF6347;
-    text-shadow: 0 0 15px #FF6347, 0 0 30px #FF6347;
-  }
-
-  /* Typing animation */
-  .typing {
-    font-family: "Courier", sans-serif;
-    font-size: 1.5rem;
-    color: #00F7F7;
-    animation: typing 2s steps(40) 1s 1 normal both, blink-caret 0.75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
-
-  @keyframes blink-caret {
-    50% {
-      border-color: transparent;
-    }
-  }
-
-  /* Glowing effect */
-  @keyframes glow {
-    0% {
-      text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff;
-    }
-    100% {
-      text-shadow: 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 50px #ff00ff;
-    }
-  }
-</style>
-
-<div class="typing">
-  Welcome to My Profile! I love coding and problem-solving.
-</div>
