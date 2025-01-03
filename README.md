@@ -6,7 +6,8 @@
 **Web Developer | MERN Stack & Laravel Enthusiast | Full Stack Developer | Problem Solver** 
 
 ---
-![Cartoon Animation](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/3o6Zt5pQ0p0p0p0p0p/giphy.gif)
+
 
 ---
 
