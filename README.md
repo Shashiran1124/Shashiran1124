@@ -86,7 +86,7 @@ Building a full-stack web application using **Laravel** as the backend, **Vue.js
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2025.....
 - Master **Inertia.js** for efficient Laravel and Vue.js SPA development.
 
 ---
