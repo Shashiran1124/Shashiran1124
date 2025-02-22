@@ -81,7 +81,7 @@ Building a full-stack web application using **Laravel** as the backend, **Vue.js
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiran1124&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?username=Shashiran1124&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?username=Shashiran1124&layout=compact)
 
 
 
